@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+test-results/
+playwright-report/
+*.sqlite
+cache/
+logs/
+.playwright-mcp/
