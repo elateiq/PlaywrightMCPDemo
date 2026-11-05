@@ -6,7 +6,7 @@ jobs:
   test:
     runs-on: ubuntu-latest
     env:
-      SHOP_BUGS: none
+      SHOP_BUGS: min-cart
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
